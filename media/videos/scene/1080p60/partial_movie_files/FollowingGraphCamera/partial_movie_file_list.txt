@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/ft23127/Documents/manim/media/videos/scene/1080p60/partial_movie_files/FollowingGraphCamera/3977891868_3787897883_223132457.mp4'
+file 'file:C:/Users/ft23127/Documents/manim/media/videos/scene/1080p60/partial_movie_files/FollowingGraphCamera/2852726489_1754310298_224758670.mp4'
+file 'file:C:/Users/ft23127/Documents/manim/media/videos/scene/1080p60/partial_movie_files/FollowingGraphCamera/2852726489_2408011487_788901692.mp4'
+file 'file:C:/Users/ft23127/Documents/manim/media/videos/scene/1080p60/partial_movie_files/FollowingGraphCamera/2852726489_3708979873_3544782187.mp4'
+file 'file:C:/Users/ft23127/Documents/manim/media/videos/scene/1080p60/partial_movie_files/FollowingGraphCamera/2852726489_1754310298_551061067.mp4'
+file 'file:C:/Users/ft23127/Documents/manim/media/videos/scene/1080p60/partial_movie_files/FollowingGraphCamera/2852726489_2232699210_3305604767.mp4'
+file 'file:C:/Users/ft23127/Documents/manim/media/videos/scene/1080p60/partial_movie_files/FollowingGraphCamera/2852726489_1754310298_3757743495.mp4'
+file 'file:C:/Users/ft23127/Documents/manim/media/videos/scene/1080p60/partial_movie_files/FollowingGraphCamera/2852726489_2329721461_825333220.mp4'
+file 'file:C:/Users/ft23127/Documents/manim/media/videos/scene/1080p60/partial_movie_files/FollowingGraphCamera/2852726489_1015087023_825333220.mp4'
+file 'file:C:/Users/ft23127/Documents/manim/media/videos/scene/1080p60/partial_movie_files/FollowingGraphCamera/2852726489_1754310298_1791805212.mp4'
+file 'file:C:/Users/ft23127/Documents/manim/media/videos/scene/1080p60/partial_movie_files/FollowingGraphCamera/2852726489_2066699907_812776444.mp4'
+file 'file:C:/Users/ft23127/Documents/manim/media/videos/scene/1080p60/partial_movie_files/FollowingGraphCamera/2852726489_1754310298_3536235399.mp4'

@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/ft23127/Documents/manim/media/videos/scene/1080p60/partial_movie_files/ComplementaryAngleFormula/3977891868_1898478303_223132457.mp4'
+file 'file:C:/Users/ft23127/Documents/manim/media/videos/scene/1080p60/partial_movie_files/ComplementaryAngleFormula/2852726489_1754310298_3712042578.mp4'
+file 'file:C:/Users/ft23127/Documents/manim/media/videos/scene/1080p60/partial_movie_files/ComplementaryAngleFormula/2852726489_1754310298_810779978.mp4'
+file 'file:C:/Users/ft23127/Documents/manim/media/videos/scene/1080p60/partial_movie_files/ComplementaryAngleFormula/2852726489_2804737670_99197829.mp4'
+file 'file:C:/Users/ft23127/Documents/manim/media/videos/scene/1080p60/partial_movie_files/ComplementaryAngleFormula/2852726489_1503068568_584620292.mp4'
+file 'file:C:/Users/ft23127/Documents/manim/media/videos/scene/1080p60/partial_movie_files/ComplementaryAngleFormula/2852726489_155220212_2798812387.mp4'
+file 'file:C:/Users/ft23127/Documents/manim/media/videos/scene/1080p60/partial_movie_files/ComplementaryAngleFormula/2852726489_1567540364_3409240877.mp4'

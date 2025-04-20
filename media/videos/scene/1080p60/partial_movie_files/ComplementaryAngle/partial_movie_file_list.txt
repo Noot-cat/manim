@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/ft23127/Documents/manim/media/videos/scene/1080p60/partial_movie_files/ComplementaryAngle/3977891868_3787897883_223132457.mp4'
+file 'file:C:/Users/ft23127/Documents/manim/media/videos/scene/1080p60/partial_movie_files/ComplementaryAngle/2852726489_1754310298_224758670.mp4'
+file 'file:C:/Users/ft23127/Documents/manim/media/videos/scene/1080p60/partial_movie_files/ComplementaryAngle/2852726489_3504986500_2103725537.mp4'
+file 'file:C:/Users/ft23127/Documents/manim/media/videos/scene/1080p60/partial_movie_files/ComplementaryAngle/2852726489_1916068407_807625585.mp4'
+file 'file:C:/Users/ft23127/Documents/manim/media/videos/scene/1080p60/partial_movie_files/ComplementaryAngle/2852726489_440956900_4164278794.mp4'
+file 'file:C:/Users/ft23127/Documents/manim/media/videos/scene/1080p60/partial_movie_files/ComplementaryAngle/2852726489_2358654191_1135024387.mp4'
+file 'file:C:/Users/ft23127/Documents/manim/media/videos/scene/1080p60/partial_movie_files/ComplementaryAngle/2852726489_1754310298_64194034.mp4'
+file 'file:C:/Users/ft23127/Documents/manim/media/videos/scene/1080p60/partial_movie_files/ComplementaryAngle/2852726489_36123184_3121949771.mp4'
+file 'file:C:/Users/ft23127/Documents/manim/media/videos/scene/1080p60/partial_movie_files/ComplementaryAngle/2852726489_4263069477_1609208819.mp4'
+file 'file:C:/Users/ft23127/Documents/manim/media/videos/scene/1080p60/partial_movie_files/ComplementaryAngle/2852726489_1326196239_1217879387.mp4'
+file 'file:C:/Users/ft23127/Documents/manim/media/videos/scene/1080p60/partial_movie_files/ComplementaryAngle/2852726489_1754310298_2326428312.mp4'

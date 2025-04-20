@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/ft23127/Documents/manim/media/videos/scene/1080p60/partial_movie_files/MovingFrameBox/3977891868_2144976620_223132457.mp4'
+file 'file:C:/Users/ft23127/Documents/manim/media/videos/scene/1080p60/partial_movie_files/MovingFrameBox/2852726489_1420869240_3920394439.mp4'
+file 'file:C:/Users/ft23127/Documents/manim/media/videos/scene/1080p60/partial_movie_files/MovingFrameBox/2852726489_1754310298_1461628566.mp4'
+file 'file:C:/Users/ft23127/Documents/manim/media/videos/scene/1080p60/partial_movie_files/MovingFrameBox/2852726489_966719605_1354089588.mp4'
+file 'file:C:/Users/ft23127/Documents/manim/media/videos/scene/1080p60/partial_movie_files/MovingFrameBox/2852726489_1754310298_281049364.mp4'
